@@ -1,2 +1,2 @@
 print("Hello Git!")
-print
+print("Esto es una modificación del primner hellogit")
